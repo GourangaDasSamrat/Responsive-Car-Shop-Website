@@ -2,7 +2,7 @@
 
 Hi there! I'm excited to share my latest project: a responsive car shop website! 🚀
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-brightgreen)]()
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-brightgreen)](https://responsivecarshopbygouranga.netlify.app/)
 
 ## ✨ Features
 
